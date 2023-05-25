@@ -29,8 +29,6 @@ class Mobile extends Laptop {
 }
 
 
-
-
 void main() {
   var show = Mobile(); //object
   print(show.desktopBrand);
